@@ -1,0 +1,9 @@
+{
+    "as3mxml.sdk.framework": "D:\\Projects\\libraries\\air\\sdk\\AIRSDK_51.2.1",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "bowlerhatllc.vscode-as3mxml",
+    "as3mxml.format.placeOpenBraceOnNewLine": false,
+    "editor.rulers": [
+        120
+    ]
+}
